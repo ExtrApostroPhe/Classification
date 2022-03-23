@@ -1,1 +1,1 @@
-# Summer_Project
+# News Classification for China Daily with Deep Learning
